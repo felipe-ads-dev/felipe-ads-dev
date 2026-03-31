@@ -73,23 +73,6 @@ class CriminalMastermind:
     def reputation_status(self):
         return "LEGENDARY CRIMINAL MASTERMIND"
 ```
-
-## 🛠️ Criminal Arsenal & Tools
-
-<div align="center">
-  <h3>💻 Digital Weapons</h3>
-  <img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js,tailwindcss,python,java,cs,nodejs,mysql,gcp,githubactions,linux,azure,ubuntu,figma,photoshop,git,github,gitlab,vscode,discord,notion,pytorch)](https://skillicons.dev)&theme=dark" />
-  
-  <h3>🔧 Heist Equipment</h3>
-  <img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js,tailwindcss)](https://skillicons.dev)&theme=dark" />
-  
-  <h3>🏪 Underground Network</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,[![My Skills](https://skillicons.dev/icons?i=python,java,cs,nodejs)](https://skillicons.dev)&theme=dark" />
-  
-  <h3>🎮 Gaming & Design</h3>
-  <img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js,tailwindcss,python,java,cs,nodejs,mysql,gcp,githubactions,linux,azure,ubuntu,figma,photoshop,git,github,gitlab,vscode,discord,notion,pytorch)](https://skillicons.dev)blender,photoshop,figma,xd,sketch&theme=dark" />
-</div>
-
 ## 🎯 Active Heists & Operations
 
 <div align="center">
