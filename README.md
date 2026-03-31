@@ -4,7 +4,7 @@
 
 [![PabloFelipeCarneiroCosta](https://img.shields.io/static/v1?label=felipe-ads-dev&message=%20&color=lightskyblue&logo=superuser&style=flat-square&logoColor=white)](https://gabrielzschmitz.github.io/)
 [![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=lightskyblue&logo=inspire&style=flat-square&logoColor=white)](https://www.linkedin.com/in/pablo-felipe-carneiro-costa-6080a53b5/)
-[![gabrielzschmitz](https://img.shields.io/static/v1?label=gabrielzschmitz&message=%20&color=lightskyblue&logo=maildotru&style=flat-square&logoColor=white)](mailto:pablofcarneiro@gmail.com)
+[![pablofcarneiro](https://img.shields.io/static/v1?label=pablofcarneiro&message=%20&color=lightskyblue&logo=maildotru&style=flat-square&logoColor=white)](mailto:pablofcarneiro@gmail.com)
   
   
 👨‍💻 Desenvolvedor de 18 anos em formação<br>
