@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou Felipe</h1>
 
-Meu nome é Pablo Felipe Carneiro Costa, tenho 18 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na [Universidade Metropolitana](https://portal.uniasselvi.com.br/). Sou um entusiasta de tecnologia e aprendo por conta própria.
+Meu nome é Pablo Felipe Carneiro Costa, tenho 18 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na [Universidade Uniasselvi](https://portal.uniasselvi.com.br/). Sou um entusiasta de tecnologia e aprendo por conta própria.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-ads-dev" alt="felipe-ads-dev" /> </p>
 
@@ -92,6 +92,6 @@ Meu nome é Pablo Felipe Carneiro Costa, tenho 18 anos e atualmente estou cursan
 
 
 -----
-Credits: [Hridoy Hazard](https://github.com/felipe-ads-dev)
+Credits: [Pablo Felipe](https://github.com/felipe-ads-dev)
 
 Last Edited on: 30/01/2026
