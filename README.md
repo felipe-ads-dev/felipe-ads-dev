@@ -4,7 +4,7 @@ Meu nome é Pablo Felipe Carneiro Costa, tenho 18 anos e atualmente estou cursan
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-ads-dev" alt="felipe-ads-dev" /> </p>
 
-- 🌱 Atualmente estou aprendendo ** FULL Stack
+- 🌱 Atualmente estou aprendendo * FULL Stack
 - 👯 Estou procurando colaborar em projetos relacionados a desenvolvimento web
 - 🤔 Estou aberto a qualquer tipo de ajuda geral.
 - 🥅 Metas para 2026: Dominar o FULL Stack :|
