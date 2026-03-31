@@ -92,6 +92,6 @@ Meu nome é Pablo Felipe Carneiro Costa, tenho 18 anos e atualmente estou cursan
 
 
 -----
-Credits: [Pablo Felipe](https://github.com/felipe-ads-dev)
+Credits: [felipe-ads-dev](https://github.com/felipe-ads-dev)
 
 Last Edited on: 30/01/2026
