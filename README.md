@@ -33,7 +33,7 @@
   </table>
 </div>
 
-## 🕴️ Criminal Profile
+## 🕴️ Perfil
 
 <div align="center">
   <table>
@@ -126,17 +126,6 @@ class CriminalMastermind:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipe-ads-dev&bg_color=0a0a0a&color=ff00ff&line=00ffff&point=ff0000&area=true&hide_border=true&custom_title=Criminal%20Activity%20Graph" />
 </div>
-
-## 🎰 Vice City Intel Drop
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Eu consigo colocar meu pé atrás da minha cabeça&author=Pablo Felipe Carneiro Costa&border=true" />
-</div>
-
-## 🌆 Neon Nights Footer
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=neon&color=gradient&customColorList=24&height=150&section=footer&animation=blinking&fontSize=25&text=Keep+It+Criminal%2C+Keep+It+Cool" />
   
   <h3>🚗💨 Thanks for visiting Vice City! Remember: In code we trust, in bugs we debug! 🚗💨</h3>
   
@@ -155,5 +144,5 @@ class CriminalMastermind:
 ---
 
 <div align="center">
-  <h4>🌃 "In a world full of bugs, be the feature." - Pablo Felipe Carneiro Costa 🌃</h4>
+  <h4>🌃 "Em um mundo cheio de bug, seja destaque." - Pablo Felipe Carneiro Costa 🌃</h4>
 </div>
