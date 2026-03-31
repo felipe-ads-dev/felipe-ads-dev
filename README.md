@@ -82,9 +82,6 @@ Meu nome é Pablo Felipe Carneiro Costa, tenho 18 anos e atualmente estou cursan
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </span>
-    
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <a href="https://fb.com/hridoy.the.hazard10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
@@ -95,6 +92,6 @@ Meu nome é Pablo Felipe Carneiro Costa, tenho 18 anos e atualmente estou cursan
 
 
 -----
-Credits: [Hridoy Hazard](https://github.com/HridoyHazard)
+Credits: [Hridoy Hazard](https://github.com/felipe-ads-dev)
 
-Last Edited on: 06/12/2021
+Last Edited on: 30/01/2026
