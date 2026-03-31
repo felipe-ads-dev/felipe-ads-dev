@@ -1,7 +1,7 @@
-# 🌃 Pablo Felipe Carneiro Costa - Welcome to Vice City Code
+# 🌃 Pablo Felipe Carneiro Costa - Bem vindo ao meu mundo!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Welcome+to+Pablo Felipe Carneiro Costa's+Criminal+Enterprise;Coding+in+Vice+City+Since+Day+One;Ready+to+Steal+Some+Code?" alt="Typing SVG" />
+  <img src="font=Courier+New&size=30&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Welcome+to+Pablo Felipe Carneiro Costa's+Criminal+Enterprise;Coding+in+Vice+City+Since+Day+One;Ready+to+Steal+Some+Code?"/>
 </div>
 
 <div align="center">
@@ -10,24 +10,24 @@
 
 
 
-## 🚗 Criminal Stats & Reputation
+## 🚗 Status e Reputação
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/💰_Heists_Completed-∞-32CD32?style=for-the-badge&logo=dollar&logoColor=white&labelColor=000000" />
+        <img src="https://img.shields.io/badge/💰_Trabalhos Completos-∞-32CD32?style=for-the-badge&logo=dollar&logoColor=white&labelColor=000000" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/🔫_Wanted_Level-⭐⭐⭐⭐⭐-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=000000" />
+        <img src="https://img.shields.io/badge/🔫_Nivel de Procurado-⭐⭐⭐⭐⭐-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=000000" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/🏢_Territory-Brasil-FF00FF?style=for-the-badge&logo=building&logoColor=white&labelColor=000000" />
+        <img src="https://img.shields.io/badge/🏢_Territorio-Brasil-FF00FF?style=for-the-badge&logo=building&logoColor=white&labelColor=000000" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/👔_Organization-[Your company]-00FFFF?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=000000" />
+        <img src="https://img.shields.io/badge/👔_Grupo-[...]-00FFFF?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=000000" />
       </td>
     </tr>
   </table>
